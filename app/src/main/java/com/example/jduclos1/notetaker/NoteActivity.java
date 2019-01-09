@@ -12,10 +12,10 @@ import android.widget.Spinner;
 import java.util.List;
 
 public class NoteActivity extends AppCompatActivity {
-    public static final String NOTE_POSITION = "com.jwhh.jim.notekeeper.NOTE_POSITION";
-    public static final String ORIGINAL_NOTE_COURSE_ID = "com.jwhh.jim.notekeeper.ORIGINAL_NOTE_COURSE_ID";
-    public static final String ORIGINAL_NOTE_TITLE = "com.jwhh.jim.notekeeper.ORIGINAL_NOTE_TITLE";
-    public static final String ORIGINAL_NOTE_TEXT = "com.jwhh.jim.notekeeper.ORIGINAL_NOTE_TEXT";
+    public static final String NOTE_POSITION = "com.example.jduclos1.notetaker.NOTE_POSITION";
+    public static final String ORIGINAL_NOTE_COURSE_ID = "com.example.jduclos1.notetaker.ORIGINAL_NOTE_COURSE_ID";
+    public static final String ORIGINAL_NOTE_TITLE = "com.example.jduclos1.notetaker.ORIGINAL_NOTE_TITLE";
+    public static final String ORIGINAL_NOTE_TEXT = "com.example.jduclos1.notetaker.ORIGINAL_NOTE_TEXT";
     public static final int POSITION_NOT_SET = -1;
     private NoteInfo mNote;
     private boolean mIsNewNote;

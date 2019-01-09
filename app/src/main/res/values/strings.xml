@@ -2,4 +2,9 @@
     <string name="app_name">NoteKeeper</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_note">Edit Note</string>
+
+
+    <string name="send_email">Send as email</string>
+    <string name="cancel_email">Cancel</string>
+    <string name="add_attachment">Add Attachment</string>
 </resources>
